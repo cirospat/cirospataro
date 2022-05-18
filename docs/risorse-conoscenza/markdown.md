@@ -117,4 +117,8 @@ bisogna editare questo codice:
 [Go to cirospat](https://cirospat.readthedocs.io){ .md-button .md-button--primary }
 ```
 
+## HTML (Basic HTML Codes for Beginners)
+thanks virginialamedam4 for the input
+
+[https://www.websiteplanet.com/blog/html-guide-beginners/](https://www.websiteplanet.com/blog/html-guide-beginners/)
 
