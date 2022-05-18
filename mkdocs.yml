@@ -18,7 +18,7 @@ extra:
   manifest: "manifest.webmanifest"
   disqus: mkdocs
   social:
-    - icon: fontawesome/solid/home
+    - icon: fontawesome/solid/house
       link: https://cirospat.github.io/cirospataro/
       name: Home Page
     - icon: fontawesome/brands/twitter
